@@ -1,6 +1,6 @@
 """
 Uzrakstiet programmu definējot klasi,lai veselu skaitli pārveidotu par romiešu ciparu.
-
+Sanija
 """
 
 class AAA:
